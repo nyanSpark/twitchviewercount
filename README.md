@@ -1,5 +1,5 @@
 # Twitch Viewer Count
-A CLR Browser URL that displays channel viewer count for embedding within an OBS scene.
+A lightweight Twitch viewer-count overlay designed for OBS using NightDev’s CLR Browser. Host viewercount.php on any PHP-capable web server, add it as a CLR Browser source in OBS, and customize the output entirely via URL parameters (channel name, font size/color/family, refresh interval) or built-in themes like anime.
 
 # Requirements
 - [Open Broadcaster Software (OBS)](https://obsproject.com/)
